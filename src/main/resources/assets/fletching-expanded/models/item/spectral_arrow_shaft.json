@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fletching-expanded:item/spectral_arrow_shaft"
+  }
+}

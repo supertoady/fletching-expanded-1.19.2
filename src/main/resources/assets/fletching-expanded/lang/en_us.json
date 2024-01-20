@@ -1,0 +1,11 @@
+{
+  "item.fletching-expanded.flint_spearhead": "Flint Spearhead",
+  "item.fletching-expanded.flint_spear": "Flint Spear",
+  "item.fletching-expanded.arrow_shaft": "Arrow Shaft",
+
+  "block.fletching-expanded.soul_infuser": "Soul Infuser",
+
+  "itemGroup.fletching-expanded.fletching_expanded": "Fletching Expanded",
+
+  "tooltip.fletching-expanded.spear.tooltip": "test"
+}
